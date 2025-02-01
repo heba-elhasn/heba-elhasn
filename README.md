@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @heba-elhasn
-- 👀 I’m interested in Blockchain DAppds development
-- 🌱 I’m currently learning as much as I can reach of Web3 & blockchain development tools and protocols.
-- 💞️ I’m looking to collaborate with an ambitious and friendly team as Fullstack or solidity developer on any valuable project.
+- 👀 I’m interested in Smart Contract security
+- 🌱 I’m currently learning as much as I can about Web3 & blockchain security.
+- 💞️ I’m looking to collaborate with an ambitious and friendly team as web3 security researcher.
 - 📫 How to reach me :
 -    Email: newheba47@gmail.com
 -    Twitter: @ElhasanHeba
